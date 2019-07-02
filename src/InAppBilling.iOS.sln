@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugin.InAppBilling.Abstractions.iOS", "Plugin.InAppBilling.Abstractions\Plugin.InAppBilling.Abstractions.iOS.csproj", "{453786D8-B19E-43A1-BD55-5813736ADB51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugin.InAppBilling.iOS.iOS", "Plugin.InAppBilling.iOS\Plugin.InAppBilling.iOS.iOS.csproj", "{3C359282-8AC5-475B-BA23-517D76FFC857}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{453786D8-B19E-43A1-BD55-5813736ADB51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{453786D8-B19E-43A1-BD55-5813736ADB51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{453786D8-B19E-43A1-BD55-5813736ADB51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{453786D8-B19E-43A1-BD55-5813736ADB51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C359282-8AC5-475B-BA23-517D76FFC857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C359282-8AC5-475B-BA23-517D76FFC857}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C359282-8AC5-475B-BA23-517D76FFC857}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C359282-8AC5-475B-BA23-517D76FFC857}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
