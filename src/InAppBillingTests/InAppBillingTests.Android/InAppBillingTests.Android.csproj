@@ -15,7 +15,6 @@
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
     <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
     <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
-    <AndroidUseLatestPlatformSdk>false</AndroidUseLatestPlatformSdk>
     <TargetFrameworkVersion>v8.1</TargetFrameworkVersion>
     <AndroidHttpClientHandlerType>Xamarin.Android.Net.AndroidClientHandler</AndroidHttpClientHandlerType>
     <NuGetPackageImportStamp>
@@ -96,7 +95,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\InAppBillingTests\InAppBillingTests.csproj">
-      <Project>{4B28D0B8-D15A-43AD-B7A6-9C2338D39F86}</Project>
+      <Project>{6D4D9135-F225-4626-A9CE-32BDF97AEA89}</Project>
       <Name>InAppBillingTests</Name>
     </ProjectReference>
   </ItemGroup>
